@@ -1,3 +1,7 @@
+# jumble 0.1.2
+
+* Refactored code.
+
 # jumble 0.1.1
 
 * Lightened navy colour.
